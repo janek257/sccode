@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284650474064",
+    "firebase_url": "https://watermonitor-4e2ef.firebaseio.com",
+    "project_id": "watermonitor-4e2ef",
+    "storage_bucket": "watermonitor-4e2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284650474064:android:6c468d4fd914b799db1f55",
+        "android_client_info": {
+          "package_name": "water.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284650474064-eeh52t46n825q8umalrq93kbcgem2jra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4-lQldwUeucuoo4GXyoRpEi8vaWPMo84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284650474064-eeh52t46n825q8umalrq93kbcgem2jra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
